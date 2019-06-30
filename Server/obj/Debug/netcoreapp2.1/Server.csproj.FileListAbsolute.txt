@@ -1,0 +1,11 @@
+C:\Users\Audrius\source\Task\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\Users\Audrius\source\Task\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\Users\Audrius\source\Task\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\Users\Audrius\source\Task\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\Users\Audrius\source\Task\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\Users\Audrius\source\Task\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Users\Audrius\source\Task\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Audrius\source\Task\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Users\Audrius\source\Task\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\Users\Audrius\source\Task\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\Users\Audrius\source\Task\Server\obj\Debug\netcoreapp2.1\Server.pdb
